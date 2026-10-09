@@ -3,7 +3,7 @@
 
 # Hey, I'm Fadawkas! 👋
 
-### AI Engineer · Full-Stack Developer · Building Things That Think
+### AI Engineer · Building Things That Think
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Engineering+intelligent+systems;Turning+complex+ideas+into+real+products;AI+%7C+Backend+%7C+Full-Stack+Development;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
@@ -29,14 +29,14 @@
 
 I'm **Muhammad Fadawkas Oemarki**, an Informatics graduate and AI Engineer based in Jakarta, Indonesia.
 
-I enjoy building software that goes beyond just working — systems that are **intelligent, scalable, and genuinely useful**.
+I enjoy building software that goes beyond just working, systems that are **intelligent, scalable, and genuinely useful**.
 
 My work sits at the intersection of **Artificial Intelligence, Backend Engineering, and Full-Stack Development**. From orchestrating LLM-powered workflows to designing APIs and building end-to-end applications, I love turning challenging problems into practical solutions.
 
 - 🔭 **Currently:** AI Engineer at **Neuram.ai**
 - 🧠 **Focused on:** LLM Applications, AI Agents, RAG, and Intelligent Automation
 - ⚙️ **Engineering interests:** Backend Architecture, APIs, Infrastructure & System Design
-- 🎓 **Education:** B.Sc. in Informatics — UPN "Veteran" Jakarta
+- 🎓 **Education:** B.Sc. in Informatics - UPN "Veteran" Jakarta
 - 💡 **Philosophy:** Build with purpose. Keep it simple. Make it better.
 - 🌐 **More about me:** [fadawkasoemarki.my.id](https://fadawkasoemarki.my.id/)
 
@@ -74,7 +74,7 @@ My work sits at the intersection of **Artificial Intelligence, Backend Engineeri
 
 ## 🚀 Selected Projects
 
-A few projects that reflect what I enjoy building — from AI-powered applications to backend systems and developer infrastructure.
+A few projects that reflect what I enjoy building - from AI-powered applications to backend systems and developer infrastructure.
 
 <table>
 <tr>
@@ -163,19 +163,19 @@ A machine learning research project comparing SVM and KNN algorithms for rainfal
 
 ## 💼 Experience & Background
 
-**🤖 AI Engineer — Neuram.ai**  
+**🤖 AI Engineer - Neuram.ai**  
 *March 2026 – Present*
 
 Working on AI-powered applications, intelligent workflows, and practical LLM integrations.
 
-**⚡ Backend & AI Engineer Intern — Kuasar**  
+**⚡ Backend & AI Engineer Intern - Kuasar**  
 *May 2025 – August 2025*
 
 - Built an AI-driven underwriting platform using LLMs, LangGraph, and RAG.
 - Developed RESTful APIs with FastAPI and PostgreSQL.
 - Contributed to backend workflows for staging and production environments.
 
-**🎓 B.Sc. Informatics — UPN "Veteran" Jakarta**  
+**🎓 B.Sc. Informatics - UPN "Veteran" Jakarta**  
 *2022 – 2026*
 
 Alongside software engineering, I explored machine learning research, student leadership, and technology-driven projects.
